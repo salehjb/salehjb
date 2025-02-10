@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building modern and scalable web applications using React, Next.js, and Node.js.<br>
-👯 I’m looking to collaborate on: Open-source projects, especially those related to front-end development<br>
-🤝 I’m looking for help with: Exploring advanced back-end frameworks and optimizing database performance for large-scale applications.<br>
-💬 Ask me about: How to build responsive and user-friendly web interfaces, modern web development tools, and anything about React and Next.js!
+🔭 Building modern and scalable web applications using React, Next.js, and Node.js.<br>
+👯 Open-source projects, especially those related to front-end development<br>
+🤝 Exploring advanced back-end frameworks and optimizing database performance for large-scale applications.<br>
+💬 How to build responsive and user-friendly web interfaces, modern web development tools, and anything about React and Next.js!
 
 
 ## 🌐 Socials:
